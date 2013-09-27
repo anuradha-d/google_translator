@@ -30,3 +30,5 @@ Translator.translate("Text goes here", "Language code into which you want to con
 Translator.translate("Hello","ga","en")
 Output: Dia duit
 </pre>
+
+We have used Google library to develop this Gem. So all credit goes to Google. :-)
